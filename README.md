@@ -18,7 +18,7 @@ Hi! This is my nVim config i have wanted to improve as time goes by and i want t
     yay -S (or paru -s) chafa ripgrep nerd-fonts-git (or install on nerdfonts.com a font that wants to) unzip git make gcc
 
 Copy all on
-`~/.config/nvim`
+`git clone https://github.com/akmav9jse/nvim-config ~/.config/nvim`
 
 That’s All! first of all i wanted to thanks my boyfriend who always gives me support <3
 
